@@ -27,3 +27,7 @@
 
 #### Github Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=project-HOSSAM&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Coding Status
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
