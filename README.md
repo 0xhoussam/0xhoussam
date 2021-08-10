@@ -20,7 +20,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
-![coding gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+![coding gif](https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif)
 
 #### Profile Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=project-HOSSAM.project-HOSSAM)
