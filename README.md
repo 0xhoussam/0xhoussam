@@ -22,4 +22,8 @@
 
 ![coding gif](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
+#### Profile Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=project-HOSSAM.project-HOSSAM)
+
+#### Github Status
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=project-HOSSAM&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
