@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning assembly
 - 📫 How to reach me: https://www.linkedin.com/in/hossam-abouiba-b044a4147/
 
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=habouiba)](https://github.com/mohouyizme/1337-readme)
+
 #### Top Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -19,8 +21,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-![coding gif](https://media.giphy.com/media/dBlZwFc1QjzXseX7aT/giphy.gif)
 
 #### Profile Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=project-HOSSAM.project-HOSSAM)
