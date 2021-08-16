@@ -31,6 +31,10 @@
 #### Coding Status
 <!--START_SECTION:waka-->
 ```text
-YAML       1 min           ████████████████████▒░░░░   81.48 % 
+C                     3 hrs 21 mins   ███████████████░░░░░░░░░░   60.50 % 
+Other                 1 hr 34 mins    ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+Markdown              13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Makefile              11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Sublime Text Config   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 ```
 <!--END_SECTION:waka-->
