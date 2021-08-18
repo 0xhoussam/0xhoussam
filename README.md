@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in algorithms and data structures
 - 🔭 I’m currently working on c
-- 🌱 I’m currently learning assembly
+- 🌱 I’m currently learning hardware and low level programing
 - 📫 How to reach me: https://www.linkedin.com/in/hossam-abouiba-b044a4147/
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=habouiba)](https://github.com/mohouyizme/1337-readme)
