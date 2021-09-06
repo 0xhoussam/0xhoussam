@@ -31,10 +31,6 @@
 #### Coding Status
 <!--START_SECTION:waka-->
 ```text
-Other      3 hrs 42 mins   ████████▒░░░░░░░░░░░░░░░░   33.27 % 
-C          2 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.28 % 
-Java       1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Assembly   44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-C++        40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
