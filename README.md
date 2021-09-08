@@ -31,6 +31,7 @@
 #### Coding Status
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Other   5 mins          █████████████▓░░░░░░░░░░░   54.93 % 
+C#      4 mins          ██████████▓░░░░░░░░░░░░░░   42.14 % 
 ```
 <!--END_SECTION:waka-->
