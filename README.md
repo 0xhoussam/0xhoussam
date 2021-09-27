@@ -31,6 +31,8 @@
 #### Coding Status
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C            3 hrs 17 mins   ██████████████████▓░░░░░░   74.00 % 
+Makefile     50 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Lua          16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ```
 <!--END_SECTION:waka-->
