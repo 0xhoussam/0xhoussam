@@ -31,10 +31,6 @@
 #### Coding Status
 <!--START_SECTION:waka-->
 ```text
-Other        5 hrs 1 min     ███████████▒░░░░░░░░░░░░░   45.94 % 
-C            2 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-Go           1 hr 16 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-Makefile     37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-JavaScript   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
