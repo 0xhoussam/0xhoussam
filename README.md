@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning hardware and low level programming
 - 📫 How to reach me: https://www.linkedin.com/in/hossam-abouiba-b044a4147/
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&dark=true&login=habouiba)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=habouiba)](https://github.com/mohouyizme/1337-readme)
 
 #### Top Languages
 
