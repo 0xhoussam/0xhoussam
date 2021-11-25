@@ -31,6 +31,7 @@
 #### Coding Status
 <!--START_SECTION:waka-->
 ```text
-C   28 mins         █████████████████████████   100.00 % 
+C       20 mins         █████████████████████░░░░   83.68 % 
+Other   3 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
 ```
 <!--END_SECTION:waka-->
