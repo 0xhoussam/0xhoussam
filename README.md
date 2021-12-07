@@ -31,6 +31,8 @@
 #### Coding Status
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C             1 hr            █████████████████████░░░░   84.23 % 
+Makefile      9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+Objective-C   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 <!--END_SECTION:waka-->
