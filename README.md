@@ -31,8 +31,8 @@
 #### Coding Status
 <!--START_SECTION:waka-->
 ```text
-C             1 hr            █████████████████████░░░░   84.23 % 
-Makefile      9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Objective-C   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+C             2 hrs 49 mins   ███████████████████████░░   91.34 % 
+Makefile      14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+Objective-C   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 <!--END_SECTION:waka-->
