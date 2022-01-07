@@ -31,8 +31,8 @@
 #### Coding Status
 <!--START_SECTION:waka-->
 ```text
-Markdown   53 mins         ████████████▓░░░░░░░░░░░░   50.01 % 
-C          44 mins         ██████████▓░░░░░░░░░░░░░░   42.37 % 
-Makefile   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+Markdown   2 hrs 6 mins    █████████████████▓░░░░░░░   70.49 % 
+C          44 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.01 % 
+Makefile   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
 ```
 <!--END_SECTION:waka-->
