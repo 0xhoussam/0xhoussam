@@ -31,10 +31,9 @@
 #### Coding Status
 <!--START_SECTION:waka-->
 ```text
-TypeScript   3 hrs 52 mins   █████████████████▓░░░░░░░   70.76 % 
-JavaScript   43 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-CSS          27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-JSON         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Markdown     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+TypeScript   4 hrs 8 mins    ██████████████████████▓░░   91.14 % 
+Markdown     11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+JavaScript   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 <!--END_SECTION:waka-->
