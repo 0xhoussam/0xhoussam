@@ -31,8 +31,9 @@
 #### Coding Status
 <!--START_SECTION:waka-->
 ```text
-C             9 hrs 50 mins   ███████████████████████▓░   95.24 % 
-Makefile      15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-JavaScript    13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+C             12 hrs 45 mins  ███████████████████████▒░   92.72 % 
+Makefile      32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
+Other         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+JavaScript    13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
 ```
 <!--END_SECTION:waka-->
