@@ -31,11 +31,11 @@
 #### Coding Status
 <!--START_SECTION:waka-->
 ```text
-Total: 8 hrs 44 mins
+Total: 7 hrs 17 mins
 
-C          8 hrs 22 mins   ████████████████████████░   95.72 % 
-Makefile   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Lua        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-JSON       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+C          7 hrs 1 min     ████████████████████████░   96.26 % 
+Makefile   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Lua        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+JSON       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
 <!--END_SECTION:waka-->
