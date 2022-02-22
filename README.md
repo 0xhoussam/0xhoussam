@@ -31,8 +31,7 @@
 #### Coding Status
 <!--START_SECTION:waka-->
 ```text
-C          2 hrs 41 mins   ████████████████████████▒   97.34 % 
-JSON       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Makefile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+C          2 hrs 8 mins    ████████████████████████▓   98.64 % 
+Makefile   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 <!--END_SECTION:waka-->
