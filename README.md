@@ -32,9 +32,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-C          56 mins         ███████████████████▓░░░░░   78.44 %
-Makefile   11 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.91 %
-Other      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
