@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning hardware and low level programming
 - 📫 How to reach me: https://www.linkedin.com/in/hossam-abouiba-b044a4147/
 
-[![habouiba's 42 stats](https://badge42.vercel.app/api/v2/stats/cl13fy7ee005809mehnm7c0ac?cursusId=21)](https://github.com/JaeSeoKim/badge42)
+[![habouiba 42 stats](https://badge.mediaplus.ma/greenbinary/habouiba)](https://github.com/oakoudad/badge42)
 
 #### Top Languages
 
