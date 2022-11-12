@@ -24,7 +24,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Lua        15 mins         █████████▓░░░░░░░░░░░░░░░   38.07 %
+Markdown   14 mins         ████████▓░░░░░░░░░░░░░░░░   35.14 %
+Bash       9 mins          ██████░░░░░░░░░░░░░░░░░░░   24.36 %
+C          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+lir        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
