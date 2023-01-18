@@ -24,7 +24,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+C       39 mins         ███████████████████░░░░░░   76.51 %
+Lua     6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+Other   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
 ```
 
 <!--END_SECTION:waka-->
