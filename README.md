@@ -1,7 +1,7 @@
 ## Hi I'm Houssam <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 - 👀 I’m interested in data structures and algorithms
-- 🔭 I’m currently working on cpp
+- 🔭 I’m currently working with Typescript
 - 🌱 I’m currently learning hardware and low level programming
 - 📫 How to reach me: https://www.linkedin.com/in/hossam-abouiba-b044a4147/
 
