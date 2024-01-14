@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in data structures and algorithms
 - 🔭 I’m currently working with Typescript
-- 🌱 I’m currently learning hardware and low level programming
+- 🌱 I’m currently learning graph theory
 - 📫 How to reach me: https://www.linkedin.com/in/hossam-abouiba-b044a4147/
 
 #### Top Languages
