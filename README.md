@@ -13,10 +13,10 @@
 <br />
 <br />
 #### Profile Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=project-HOSSAM.project-HOSSAM)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=0xhoussam.0xhoussam)
 
 #### Github Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xPride&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xhoussam&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Coding Status
 <!--START_SECTION:waka-->
