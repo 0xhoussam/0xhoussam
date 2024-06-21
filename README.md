@@ -20,7 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua        39 mins         ███████████████████░░░░░░   75.65 %
+conf       6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
+Markdown   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+Rust       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
