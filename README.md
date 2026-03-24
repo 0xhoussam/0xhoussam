@@ -19,7 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   11 mins               █████████████████████████   100.00 %
+TypeScript   11 mins               ████████▒░░░░░░░░░░░░░░░░   33.74 %
+Nix          10 mins               ████████▒░░░░░░░░░░░░░░░░   33.43 %
+Other        10 mins               ████████▒░░░░░░░░░░░░░░░░   32.83 %
 ```
 
 <!--END_SECTION:waka-->
