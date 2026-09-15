@@ -19,8 +19,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Nix     14 mins               █████████████████▓░░░░░░░   70.72 %
-Gleam   6 mins                ███████▒░░░░░░░░░░░░░░░░░   29.28 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
